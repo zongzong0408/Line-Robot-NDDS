@@ -12,8 +12,8 @@
 
 > 可參考以下連結說明。  
 
-- YouTube：
-- Paper： 
+- YouTube：...
+- Paper：...
 
 ## 配置要求 *Configuration Requirements*
 
